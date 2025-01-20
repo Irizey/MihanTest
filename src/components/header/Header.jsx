@@ -30,7 +30,7 @@ function Header() {
                     <Link text='Logo'/>
                     <BurgerBtn/>
                 </nav>
-                <div className="mobile-menu">
+                <div className="mobile-menu hidden">
                             <div className="menu-user">
                                 <Link text='Home'/>
                                 <LinkModal text='About' a1='Team' a2='History' a3='Careers'/>

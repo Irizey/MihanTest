@@ -1,4 +1,6 @@
 import './card.scss'
+import as from '../../../../public/images/Fighter.jpg'
+
  function Card({data}) {
     const {img, title, desc} = data
 
