@@ -7,17 +7,23 @@
   gap: 10px;
 
   .copyright {
+    display: flex;
+    gap: 8px;
+
     font-family: var(--font-family);
     font-weight: 400;
     font-size: 16px;
     line-height: 157%;
     color: var(--text-color);
-    //border-right: 2px solid var(--text-color);
+
   }
 
   @media screen and (max-width: 360px){
     & {
-      flex-direction: column;
+      flex-direction: column-reverse;
+    }
+    .vertical-line {
+      display: none;
     }
   }
 }

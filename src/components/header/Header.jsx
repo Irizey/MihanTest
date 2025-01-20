@@ -4,6 +4,7 @@ import SearchBtn from "./searche/SearchBtn.jsx";
 import LinkModal from "./linkModal/LinkModal.jsx";
 import BurgerBtn from "./mobileMenu/BurgerBtn.jsx";
 import SearchMobile from "./searchMobileMenu/SearchMobile.jsx";
+import LinkMobileModal from "./linkMobileModal/LinkMobileModal.jsx";
 function Header() {
     return (
         <header className="header">
@@ -33,8 +34,8 @@ function Header() {
                 <div className="mobile-menu hidden">
                             <div className="menu-user">
                                 <Link text='Home'/>
-                                <LinkModal text='About' a1='Team' a2='History' a3='Careers'/>
-                                <LinkModal text='Services' a1='Web Design' a2='SEO' a3='Marketing'/>
+                                <LinkMobileModal text='About' a1='Team' a2='History' a3='Careers'/>
+                                <LinkMobileModal text='Services' a1='Web Design' a2='SEO' a3='Marketing'/>
                                 <Link text='Contact'/>
                                 <Link text='Blog'/>
                                 <Link text='Portfolio'/>
