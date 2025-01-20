@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "img": "/MihanTest/images/Fighter.jpg" ,
-    "title": "Fighter",
-    "desc": "HP=20 Attack=10"
+    "img": "" ,
+    "title": "Title 1",
+    "desc": "Example text"
   },
   {
     "id": 2,
-    "img": "/MihanTest/images/Barbarian.jpg" ,
-    "title": "Barbarian",
-    "desc": "HP=18 Attack=17"
+    "img": "" ,
+    "title": "Title 2",
+    "desc": "Example text"
   },
   {
     "id": 3,
-    "img": "/MihanTest/images/Bard.jpg" ,
-    "title": "Bard",
-    "desc": "HP=10 Attack=10"
+    "img": "" ,
+    "title": "Title 3",
+    "desc": "Example text"
   },
   {
     "id": 4,
-    "img": "/MihanTest/images/Cleric.jpg" ,
-    "title": "Cleric",
-    "desc": "HP=15 Attack=8"
+    "img": "" ,
+    "title": "Title 4",
+    "desc": "Example text"
   },
   {
     "id": 5,
-    "img": "/MihanTest/images/Monk.jpg" ,
-    "title": "Monk",
-    "desc": "HP=18 Attack=16"
+    "img": "" ,
+    "title": "Title 5",
+    "desc": "Example text"
   },
   {
     "id": 6,
-    "img": "/MihanTest/images/Paladin.jpg" ,
-    "title": "Paladin",
-    "desc": "HP=19 Attack=17"
+    "img": "" ,
+    "title": "Title 6",
+    "desc": "Example text"
   },
   {
     "id": 7,
-    "img": "/MihanTest/images/Ranger.jpg" ,
-    "title": "Ranger",
-    "desc": "HP=11 Attack=17"
+    "img": "" ,
+    "title": "Title 7",
+    "desc": "Example text"
   },
   {
     "id": 8,
-    "img": "/MihanTest/images/Sorcerer.jpg" ,
-    "title": "Sorcerer",
-    "desc": "HP=8 Attack=20"
+    "img": "" ,
+    "title": "Title 8",
+    "desc": "Example text"
   },
   {
     "id": 9,
-    "img": "/MihanTest/images/Warlock.jpg" ,
-    "title": "Warlock",
-    "desc": "HP=15 Attack=15"
+    "img": "" ,
+    "title": "Title 9",
+    "desc": "Example text"
   },
   {
     "id": 10,
-    "img": "/MihanTest/images/Wizard.jpg" ,
-    "title": "Wizard",
-    "desc": "HP=11 Attack=16"
+    "img": "" ,
+    "title": "Title 10",
+    "desc": "Example text"
   }
 ]

@@ -1,7 +1,7 @@
 .card {
   //max-width: 200px;
   background-color: rgba(255, 255, 255, 0.2);
-  border-radius: 90px 90px 10px 10px;
+  border-radius: 10px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.8);
   overflow: hidden;
   transition: translate 0.2s  ease-in, box-shadow 0.3s ease-in;
@@ -35,9 +35,9 @@
 
   }
 
-  &:not(:hover) {
-    filter: grayscale(90%);
-    opacity: .5;
-  }
+  //&:not(:hover) {
+  //  filter: grayscale(90%);
+  //  opacity: .5;
+  //}
 }
 
