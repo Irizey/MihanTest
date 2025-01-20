@@ -1,0 +1,50 @@
+.linkModal {
+  position: relative;
+
+  .linka {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 157%;
+    color: var(--text-color);
+
+    &:hover {
+      transform: scale(1.1);
+      text-decoration: underline;
+    }
+  }
+
+  .modal {
+    display: grid;
+    justify-content: center;
+
+    opacity: 90%;
+    width: 120px;
+    position: absolute;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 4px;
+    top: 90%;
+    left: 0;
+    box-shadow: -10px 14px 16px rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+
+    a {
+      font-family: var(--font-family);
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 157%;
+      color: #333;
+      padding: 5px 10px;
+
+      &:hover {
+        background-color: #717171;
+        border-radius: 5px;
+        text-decoration: underline;
+      }
+    }
+  }
+
+}
+
+

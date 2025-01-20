@@ -1,0 +1,12 @@
+.burgerBtn {
+  display: none;
+  cursor: pointer;
+  font-size: 2rem;
+  color: var(--text-color);
+
+  @media screen and (max-width: 1100px) {
+    & {
+      display: block;
+    }
+  }
+}

@@ -1,0 +1,13 @@
+.link {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 157%;
+  color: var(--text-color);
+
+  &:hover {
+    transform: scale(1.1);
+    text-decoration: underline;
+  }
+
+}

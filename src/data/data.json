@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "img": "/img/Fighter.jpg" ,
+    "title": "Fighter",
+    "desc": "HP=20 Attack=10"
+  },
+  {
+    "id": 2,
+    "img": "/img/Barbarian.jpg" ,
+    "title": "Barbarian",
+    "desc": "HP=18 Attack=17"
+  },
+  {
+    "id": 3,
+    "img": "/img/Bard.jpg" ,
+    "title": "Bard",
+    "desc": "HP=10 Attack=10"
+  },
+  {
+    "id": 4,
+    "img": "/img/Cleric.jpg" ,
+    "title": "Cleric",
+    "desc": "HP=15 Attack=8"
+  },
+  {
+    "id": 5,
+    "img": "/img/Monk.jpg" ,
+    "title": "Monk",
+    "desc": "HP=18 Attack=16"
+  },
+  {
+    "id": 6,
+    "img": "/img/Paladin.jpg" ,
+    "title": "Paladin",
+    "desc": "HP=19 Attack=17"
+  },
+  {
+    "id": 7,
+    "img": "/img/Ranger.jpg" ,
+    "title": "Ranger",
+    "desc": "HP=11 Attack=17"
+  },
+  {
+    "id": 8,
+    "img": "/img/Sorcerer.jpg" ,
+    "title": "Sorcerer",
+    "desc": "HP=8 Attack=20"
+  },
+  {
+    "id": 9,
+    "img": "/img/Warlock.jpg" ,
+    "title": "Warlock",
+    "desc": "HP=15 Attack=15"
+  },
+  {
+    "id": 10,
+    "img": "/img/Wizard.jpg" ,
+    "title": "Wizard",
+    "desc": "HP=11 Attack=16"
+  }
+]
