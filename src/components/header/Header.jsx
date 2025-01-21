@@ -2,8 +2,8 @@ import './header.scss'
 import Link from "./link/Link.jsx";
 import SearchBtn from "./searche/SearchBtn.jsx";
 import LinkModal from "./linkModal/LinkModal.jsx";
-import BurgerBtn from "./mobileMenu/BurgerBtn.jsx";
-import SearchMobile from "./searchMobileMenu/SearchMobile.jsx";
+import BurgerBtn from "./burgerBtn/BurgerBtn.jsx";
+import SearchMobile from "./searchMobile/SearchMobile.jsx";
 
 function Header() {
     return (
